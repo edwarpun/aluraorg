@@ -1,0 +1,13 @@
+.boton {
+    border-radius: 10px;
+    background: #6278F7;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    padding: 24px 32px;
+    border: none;
+    color: #FFFFFF;
+    margin: 32px 0;
+    cursor: pointer;
+
+}
+
